@@ -1,0 +1,25 @@
+<svg width="510" height="510" xmlns="http://www.w3.org/2000/svg">
+
+<g id="background">
+  <rect x="0" y="0" width="510" height="510" fill="#ccc" />
+</g>
+
+<g id="G" transform="translate(10, 10)">
+    <rect x="0" y="0" width="240" height="240" fill="yellow" />
+    <rect x="40" y="0" width="40" height="240" fill="blue" />
+    <rect x="120" y="0" width="40" height="240" fill="blue" />
+    <rect x="200" y="0" width="40" height="240" fill="blue" />
+</g>
+
+<g id="O" transform="translate(10, 260)">
+    <rect x="0" y="0" width="240" height="240" fill="yellow" />
+    <polygon points="0 0, 240 0, 240 240" fill="red" />
+</g>
+
+<g id="S" transform="translate(260, 260)">
+    <rect x="0" y="0" width="240" height="240" fill="white" />
+    <rect x="80" y="80" width="80" height="80" fill="blue" />
+</g>
+
+
+</svg>
